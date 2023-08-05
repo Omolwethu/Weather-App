@@ -140,3 +140,8 @@ h5 {
   margin-top: -108px;
   position: fixed;
 }
+
+.small {
+  font-weight: 400;
+  font-size: 20px;
+}

@@ -1,0 +1,142 @@
+body {
+  background-color: aliceblue;
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+  color: rgb(139, 147, 147);
+  border-radius: 25px;
+  border: 1px rgb(139, 147, 147);
+  margin: 20px;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.app {
+  margin: 20px auto;
+  border: 1px rgb(139, 147, 147);
+  width: 100%;
+  padding: 15px;
+}
+
+.nav-bar {
+  position: fixed;
+  margin-bottom: 15px;
+}
+
+.btn-primary {
+  background-color: rgb(139, 147, 147);
+  border-color: rgb(139, 147, 147);
+  height: 44px;
+}
+
+.search-city {
+  font-style: italic;
+}
+
+h1 {
+  font-weight: 600;
+  line-height: 10px;
+  margin: 0;
+  position: fixed;
+}
+
+h2 {
+  font-weight: 450;
+  font-size: 25px;
+  line-height: 3;
+  position: fixed;
+  margin-top: 10px;
+}
+
+h3 {
+  padding-left: 240px;
+  padding-right: 60px;
+  line-height: 28px;
+  position: relative;
+  margin-left: 180px;
+  margin-right: 65px;
+  margin-bottom: 20px;
+}
+
+.temp {
+  font-size: 45px;
+  text-align: center;
+  line-height: 1;
+  margin-top: -75px;
+  margin-left: 195px;
+  position: fixed;
+}
+
+.units {
+  font-size: 20px;
+  margin-left: 240px;
+  margin-top: -45px;
+  position: fixed;
+}
+
+h5 {
+  font-size: 30px;
+  text-align: center;
+  line-height: 1;
+  margin-top: -95px;
+  margin-left: 245px;
+  position: fixed;
+}
+.weather {
+  position: fixed;
+  line-height: 1.5;
+  padding: 0;
+  font-weight: 300;
+  margin-top: -95px;
+}
+
+.card-title {
+  font-weight: 600;
+  font-size: 25px;
+  text-align: center;
+}
+
+.hi-lo {
+  font-size: 15px;
+}
+
+.card-0 {
+  margin-left: -40px;
+  margin-top: -45px;
+  position: fixed;
+}
+
+.card-1 {
+  margin-left: -315px;
+  margin-top: -45px;
+  position: fixed;
+}
+
+.card-2 {
+  margin-left: 120px;
+  margin-top: -75px;
+  position: fixed;
+}
+
+.card-3 {
+  margin-left: -135px;
+  margin-top: -74px;
+  position: fixed;
+}
+
+.card-4 {
+  margin-left: 305px;
+  margin-top: -107px;
+  position: fixed;
+}
+
+.card-5 {
+  margin-left: 50px;
+  margin-top: -108px;
+  position: fixed;
+}
